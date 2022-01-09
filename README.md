@@ -4,4 +4,4 @@
 
 
 my website https://darjania.com 
-sorry don't really have time to make it prettier :)
+sorry don't really have time to make the readme prettier :)
